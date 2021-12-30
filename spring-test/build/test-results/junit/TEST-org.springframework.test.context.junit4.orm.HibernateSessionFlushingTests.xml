@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.test.context.junit4.orm.HibernateSessionFlushingTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-12-25T12:14:47" hostname="chenqian981016deMacBook-Air.local" time="0.115">
+  <properties/>
+  <testcase name="findSamWithReadOnlySession" classname="org.springframework.test.context.junit4.orm.HibernateSessionFlushingTests" time="0.1"/>
+  <testcase name="saveJuergenWithNullDriversLicense" classname="org.springframework.test.context.junit4.orm.HibernateSessionFlushingTests" time="0.003"/>
+  <testcase name="findSam" classname="org.springframework.test.context.junit4.orm.HibernateSessionFlushingTests" time="0.002"/>
+  <testcase name="updateSamWithNullDriversLicenseWithSessionFlush" classname="org.springframework.test.context.junit4.orm.HibernateSessionFlushingTests" time="0.005"/>
+  <testcase name="saveJuergenWithDriversLicense" classname="org.springframework.test.context.junit4.orm.HibernateSessionFlushingTests" time="0.003"/>
+  <testcase name="updateSamWithNullDriversLicenseWithoutSessionFlush" classname="org.springframework.test.context.junit4.orm.HibernateSessionFlushingTests" time="0.001"/>
+  <system-out><![CDATA[20:14:47.385 [Test worker] ERROR o.h.e.j.s.SqlExceptionHelper - integrity constraint violation: NOT NULL check constraint; SYS_CT_10095 table: PERSON column: DRIVERS_LICENSE_ID
+20:14:47.389 [Test worker] ERROR o.h.e.j.s.SqlExceptionHelper - integrity constraint violation: NOT NULL check constraint; SYS_CT_10095 table: PERSON column: DRIVERS_LICENSE_ID
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

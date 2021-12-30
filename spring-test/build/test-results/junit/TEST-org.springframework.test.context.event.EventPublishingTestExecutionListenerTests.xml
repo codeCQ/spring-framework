@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.test.context.event.EventPublishingTestExecutionListenerTests" tests="14" skipped="0" failures="0" errors="0" timestamp="2021-12-25T12:14:32" hostname="chenqian981016deMacBook-Air.local" time="0.017">
+  <properties/>
+  <testcase name="doesNotPublishBeforeTestClassEventIfApplicationContextHasNotBeenLoaded()" classname="org.springframework.test.context.event.EventPublishingTestExecutionListenerTests" time="0.007"/>
+  <testcase name="publishAfterTestClassEvent()" classname="org.springframework.test.context.event.EventPublishingTestExecutionListenerTests" time="0.001"/>
+  <testcase name="doesNotPublishAfterTestExecutionEventIfApplicationContextHasNotBeenLoaded()" classname="org.springframework.test.context.event.EventPublishingTestExecutionListenerTests" time="0.0"/>
+  <testcase name="doesNotPublishPrepareTestInstanceEventIfApplicationContextHasNotBeenLoaded()" classname="org.springframework.test.context.event.EventPublishingTestExecutionListenerTests" time="0.001"/>
+  <testcase name="doesNotPublishAfterTestClassEventIfApplicationContextHasNotBeenLoaded()" classname="org.springframework.test.context.event.EventPublishingTestExecutionListenerTests" time="0.001"/>
+  <testcase name="publishAfterTestExecutionEvent()" classname="org.springframework.test.context.event.EventPublishingTestExecutionListenerTests" time="0.0"/>
+  <testcase name="doesNotPublishBeforeTestExecutionEventIfApplicationContextHasNotBeenLoaded()" classname="org.springframework.test.context.event.EventPublishingTestExecutionListenerTests" time="0.001"/>
+  <testcase name="doesNotPublishBeforeTestMethodEventIfApplicationContextHasNotBeenLoaded()" classname="org.springframework.test.context.event.EventPublishingTestExecutionListenerTests" time="0.001"/>
+  <testcase name="publishPrepareTestInstanceEvent()" classname="org.springframework.test.context.event.EventPublishingTestExecutionListenerTests" time="0.001"/>
+  <testcase name="doesNotPublishAfterTestMethodEventIfApplicationContextHasNotBeenLoaded()" classname="org.springframework.test.context.event.EventPublishingTestExecutionListenerTests" time="0.001"/>
+  <testcase name="publishBeforeTestExecutionEvent()" classname="org.springframework.test.context.event.EventPublishingTestExecutionListenerTests" time="0.0"/>
+  <testcase name="publishAfterTestMethodEvent()" classname="org.springframework.test.context.event.EventPublishingTestExecutionListenerTests" time="0.001"/>
+  <testcase name="publishBeforeTestClassEvent()" classname="org.springframework.test.context.event.EventPublishingTestExecutionListenerTests" time="0.001"/>
+  <testcase name="publishBeforeTestMethodEvent()" classname="org.springframework.test.context.event.EventPublishingTestExecutionListenerTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

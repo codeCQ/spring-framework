@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.test.web.servlet.samples.standalone.ExceptionHandlerTests$MvcTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-12-25T12:14:36" hostname="chenqian981016deMacBook-Air.local" time="0.018">
+  <properties/>
+  <testcase name="localExceptionHandlerMethod()" classname="org.springframework.test.web.servlet.samples.standalone.ExceptionHandlerTests$MvcTests" time="0.006"/>
+  <testcase name="globalExceptionHandlerMethodUsingClassArgument()" classname="org.springframework.test.web.servlet.samples.standalone.ExceptionHandlerTests$MvcTests" time="0.007"/>
+  <testcase name="globalExceptionHandlerMethod()" classname="org.springframework.test.web.servlet.samples.standalone.ExceptionHandlerTests$MvcTests" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

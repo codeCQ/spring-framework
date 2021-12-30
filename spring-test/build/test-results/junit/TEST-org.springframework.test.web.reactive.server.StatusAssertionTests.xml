@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.test.web.reactive.server.StatusAssertionTests" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-12-25T12:14:40" hostname="chenqian981016deMacBook-Air.local" time="0.008">
+  <properties/>
+  <testcase name="isEqualTo()" classname="org.springframework.test.web.reactive.server.StatusAssertionTests" time="0.005"/>
+  <testcase name="matchesCustomStatusValue()" classname="org.springframework.test.web.reactive.server.StatusAssertionTests" time="0.0"/>
+  <testcase name="reasonEquals()" classname="org.springframework.test.web.reactive.server.StatusAssertionTests" time="0.001"/>
+  <testcase name="statusSeries1xx()" classname="org.springframework.test.web.reactive.server.StatusAssertionTests" time="0.0"/>
+  <testcase name="statusSeries2xx()" classname="org.springframework.test.web.reactive.server.StatusAssertionTests" time="0.0"/>
+  <testcase name="statusSeries3xx()" classname="org.springframework.test.web.reactive.server.StatusAssertionTests" time="0.001"/>
+  <testcase name="statusSeries4xx()" classname="org.springframework.test.web.reactive.server.StatusAssertionTests" time="0.0"/>
+  <testcase name="statusSeries5xx()" classname="org.springframework.test.web.reactive.server.StatusAssertionTests" time="0.0"/>
+  <testcase name="matchesStatusValue()" classname="org.springframework.test.web.reactive.server.StatusAssertionTests" time="0.001"/>
+  <testcase name="isEqualToWithCustomStatus()" classname="org.springframework.test.web.reactive.server.StatusAssertionTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

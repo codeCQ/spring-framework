@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.test.web.servlet.samples.standalone.ExceptionHandlerTests$RestTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-12-25T12:14:36" hostname="chenqian981016deMacBook-Air.local" time="0.04">
+  <properties/>
+  <testcase name="globalRestPersonControllerExceptionHandlerTakesPrecedenceOverGlobalExceptionHandler()" classname="org.springframework.test.web.servlet.samples.standalone.ExceptionHandlerTests$RestTests" time="0.013"/>
+  <testcase name="noException()" classname="org.springframework.test.web.servlet.samples.standalone.ExceptionHandlerTests$RestTests" time="0.006"/>
+  <testcase name="localExceptionHandlerMethod()" classname="org.springframework.test.web.servlet.samples.standalone.ExceptionHandlerTests$RestTests" time="0.006"/>
+  <testcase name="globalExceptionHandlerMethod()" classname="org.springframework.test.web.servlet.samples.standalone.ExceptionHandlerTests$RestTests" time="0.007"/>
+  <testcase name="noHandlerFound()" classname="org.springframework.test.web.servlet.samples.standalone.ExceptionHandlerTests$RestTests" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
